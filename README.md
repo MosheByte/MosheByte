@@ -1,15 +1,11 @@
-### Hi, I'm Moshe
+### hey, i'm moshe 👋
 
-I like building things close to the metal, where it's just the CPU, the OS and a lot of registers.
+founder of studpilot, based in israel. outside of that i mostly build things that probably shouldn't exist:
 
-I'm currently building [MineAssembly](https://github.com/BaramiDev/MineAssembly), a voxel sandbox game written entirely in x86-64 assembly. It uses no C runtime, game engine or asset files. The code generates every texture, sound and note of music at startup, and the whole game ships as a single `.exe`.
+- **[MineAssembly](https://github.com/BaramiDev/MineAssembly)** - a voxel sandbox game in pure x86-64 assembly, no engine, no assets
+- real virtual machines running inside minecraft (vmware / virtualbox / qemu)
+- a local knowledge index + mcp server for roblox / luau dev
 
-What's in it:
-- Infinite procedural worlds with biomes, mountains, rivers, caves, ores and trees
-- Smooth lighting and ambient occlusion, a day/night cycle, clouds, rain and snow
-- Survival and creative modes, crafting, furnaces, chests, mobs, TNT, flowing water and lava
-- Multithreaded chunk generation, OpenGL rendering, a synthesized sound engine and generative music
+i like low-level code, graphics, emulation and tools that make other tools easier.
 
-I'm interested in x86-64, low-level graphics, procedural generation, retro game tech and performance. Ask me about calling conventions, voxel meshing, flood-fill lighting or simplex noise in SSE.
-
-If you enjoy assembly projects, a star on MineAssembly helps more people find it.
+reach me on [x](https://x.com/moshebarami1) or [linkedin](https://www.linkedin.com/in/moshe-barami-370057382/).
