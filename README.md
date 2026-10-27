@@ -11,8 +11,6 @@ No C runtime, no game engine, no asset files. Every texture, sound and note of m
 - Survival and creative modes, crafting, furnaces, chests, mobs, TNT, flowing water and lava
 - Multithreaded chunk generation, OpenGL rendering, a synthesized sound engine and generative music
 
-🤖 MineAssembly was built together with **Claude** (Anthropic) as an open experiment: how far can an AI go when the only language allowed is raw assembly? The code is fully commented so anyone can read, learn from and audit it.
-
 ---
 
 **Interests:** x86-64 · low-level graphics · procedural generation · retro game tech · performance
