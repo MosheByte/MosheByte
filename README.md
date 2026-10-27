@@ -2,7 +2,7 @@
 
 founder of studpilot, based in israel. outside of that i mostly build things that probably shouldn't exist:
 
-- **[MineAssembly](https://github.com/MosheByte/MineAssembly)** - a voxel sandbox game written in pure x86-64 assembly
+- **[MineAssembly](https://github.com/MosheByte/MineAssembly)** - a minecraft-like game written in pure x86-64 assembly
 - real virtual machines running inside minecraft (vmware / virtualbox / qemu)
 - a local knowledge index + mcp server for roblox / luau dev
 
